@@ -333,4 +333,12 @@ Our ESP32 board used an older-style **Micro-USB** port instead of USB-C, and it 
 
 ## 👥 Team
 
-Developed by a team of five members for a Spring Semester 2026 embedded systems project (team leader role).
+Developed by a team of five members for a Spring Semester 2026 embedded systems project 
+.
+
+Md Arif Mahmud Oyion,
+Md Bony Amin, 
+Md Rakibul Islam, 
+Niloy Bormon,  
+Mohona 
+American International University- Bangladesh
