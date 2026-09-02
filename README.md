@@ -196,6 +196,7 @@ A live simulation of the circuit and code is available on Wokwi:
 **Simulation Link (Wokwi Project):**
 [https://wokwi.com/projects/462842720344631297](https://wokwi.com/projects/462842720344631297)
 
+Hardware and software video simulation: https://www.linkedin.com/posts/md-arif-oyion_esp32-rfid-embeddedsystems-activity-7471774511030247424-aBE6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADI2ZkoBOPomn2vd2kZm5vHga4MbHUtKsKY
 ---
 
 ## ⚙️ Arduino IDE Setup Guide
